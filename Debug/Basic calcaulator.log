@@ -1,0 +1,2 @@
+﻿  Source.cpp
+LINK : fatal error LNK1104: cannot open file 'libboost_chrono-vc142-mt-gd-x32-1_76.lib'
